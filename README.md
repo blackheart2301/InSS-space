@@ -1,6 +1,6 @@
 # React + Vite
 
-My version of Indian Space Station website look-like(frontend only) where features can be enhanced on missions - detailing, history, .....Lots of scalibility is there. like I thought to add native version of GPS, but proceeded like this only.
+My version of Indian Space Station website look-like(frontend only) where features can be enhanced on missions - detailing, history, .....scope of scalibility is there. like I thought to add native version of GPS, but proceeded like this only.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
